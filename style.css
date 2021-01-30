@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  background-color: #4c018a;
+  padding: 3rem;
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+li {
+  background-color: black;
+  margin: 1px;
+  padding: 2px;
+  display: flex;
+}
